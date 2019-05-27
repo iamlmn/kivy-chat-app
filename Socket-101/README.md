@@ -1,4 +1,4 @@
-#Socket 101
+# Socket 101
 
 The socket itself is just one of the endpoints in a communication between programs on some network.
 
